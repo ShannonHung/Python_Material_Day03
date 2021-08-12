@@ -1,0 +1,2 @@
+# Python_Material_Day03
+Python基礎體驗營的Day03所需使用的教材
